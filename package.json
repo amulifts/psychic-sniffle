@@ -1,0 +1,25 @@
+{
+  "name": "psychic-sniffle",
+  "version": "1.0.0",
+  "description": "Aman's Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amulifts/psychic-sniffle.git"
+  },
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amulifts/psychic-sniffle/issues"
+  },
+  "homepage": "https://github.com/amulifts/psychic-sniffle#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.14.1"
+  }
+}
