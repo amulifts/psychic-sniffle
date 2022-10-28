@@ -16,7 +16,7 @@ A simple bot for committing made by Aman Khadka.
 
 ## Features
 
-- Committing in Regular Basis
+- Committing on Regular Basis
 
 ## Team
 
